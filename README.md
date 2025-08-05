@@ -20,7 +20,7 @@ The goal is to first support **all AWS regions for EC2**, and later expand to ot
 
 ## Installation
 
-Download the latest release from the [Releases](https://github.com/chris18191819/terracost/releases) page and place the binary in your `PATH`.
+Download the latest release from the [Releases](https://github.com/krishnaduttPanchagnula/terracost/releases) page and place the binary in your `PATH`.
 
 For example, on Linux/macOS:
 
